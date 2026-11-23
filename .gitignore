@@ -1,0 +1,34 @@
+# Python / OS / IDE
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# Internal handoffs & scratch notes
+handoffs/
+
+# EvalScope raw run caches & intermediate dumps
+outputs/run_*/
+outputs/predictions/
+outputs/predictions_s60_seed42/
+
+# Privacy: raw Bilibili comment JSONs containing user nicknames & raw posts
+corpora/bilibili_comments/BV*.json
+
+# Third-party upstream corpora (respect upstream licenses; see corpora/sources.json)
+corpora/hell/
+corpora/ruozhiba/
+corpora/chime/
+corpora/ChinesePun/
+corpora/hachimi-automaton/
+corpora/manbo-music/
+corpora/ThreeKingdomMeme/
+corpora/v50/
+corpora/冷笑话/原神冷笑话.wiki

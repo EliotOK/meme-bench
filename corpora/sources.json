@@ -1,0 +1,173 @@
+[
+  {
+    "path": "corpora/ruozhiba/README.md",
+    "source": "https://raw.githubusercontent.com/Leymore/ruozhiba/0c801f85a4506dcfdb9afced4ceaa5ab2757987d/README.md",
+    "sha256": "c29190e398b0b8eb648ab57c602419e15e4ed265aff8ebff066f5f24e6e424b5"
+  },
+  {
+    "path": "corpora/ruozhiba/data/ruozhiba-post-annual.json",
+    "source": "https://raw.githubusercontent.com/Leymore/ruozhiba/0c801f85a4506dcfdb9afced4ceaa5ab2757987d/data/ruozhiba-post-annual.json",
+    "sha256": "e2b428ab3987c8013ac0d94a29e15e828b5d813745ad829978907620d22362fa"
+  },
+  {
+    "path": "corpora/ruozhiba/data/ruozhiba-title-good.json",
+    "source": "https://raw.githubusercontent.com/Leymore/ruozhiba/0c801f85a4506dcfdb9afced4ceaa5ab2757987d/data/ruozhiba-title-good.json",
+    "sha256": "9229b141fdfcc8302601a042ca1176f5e10368a26c07a823bc989a5c79b85396"
+  },
+  {
+    "path": "corpora/ruozhiba/data/ruozhiba-title-norm.json",
+    "source": "https://raw.githubusercontent.com/Leymore/ruozhiba/0c801f85a4506dcfdb9afced4ceaa5ab2757987d/data/ruozhiba-title-norm.json",
+    "sha256": "f043f28f4e04284be165683cd027f01ca5bfd933a80b041d8512f5508d563d63"
+  },
+  {
+    "path": "corpora/chime/LICENSE",
+    "source": "https://raw.githubusercontent.com/yuboxie/chime/865ef186a0e797ec5ac242524a3c45b30a429542/LICENSE",
+    "sha256": "b1205c11b8450decda38571230806045aa8c3951b84919b2da99fe3efd286e6d"
+  },
+  {
+    "path": "corpora/chime/README.md",
+    "source": "https://raw.githubusercontent.com/yuboxie/chime/865ef186a0e797ec5ac242524a3c45b30a429542/README.md",
+    "sha256": "9eff42776f0bbce8b720944bf434c62a5eb1c1c0cc25a3ba1fd2deaab3ff3f60"
+  },
+  {
+    "path": "corpora/chime/data/chime_full.json",
+    "source": "https://raw.githubusercontent.com/yuboxie/chime/865ef186a0e797ec5ac242524a3c45b30a429542/data/chime_full.json",
+    "sha256": "dc438bcb0083918bb074fdbf8dbe275ce355b62cffe96f13a48f8b2fc51de3ec"
+  },
+  {
+    "path": "corpora/chime/data/chime_mcq.json",
+    "source": "https://raw.githubusercontent.com/yuboxie/chime/865ef186a0e797ec5ac242524a3c45b30a429542/data/chime_mcq.json",
+    "sha256": "514f76e736c92e3fb35a19a55a708167dc8d400478f8a7ebb51735031471fa04"
+  },
+  {
+    "path": "corpora/v50/license",
+    "source": "https://raw.githubusercontent.com/vikiboss/v50/399c71a5b12534dfaad10b5c42fbe23834fc393c/license",
+    "sha256": "ee8b5906547c9293830167d662a5521653f2e0e93666d39216c62d1d153b8313"
+  },
+  {
+    "path": "corpora/v50/readme.md",
+    "source": "https://raw.githubusercontent.com/vikiboss/v50/399c71a5b12534dfaad10b5c42fbe23834fc393c/readme.md",
+    "sha256": "a7edb24beb8645b0752401e53b4f32505756cc09cc864f15eae57378b7643971"
+  },
+  {
+    "path": "corpora/v50/static/v50.json",
+    "source": "https://raw.githubusercontent.com/vikiboss/v50/399c71a5b12534dfaad10b5c42fbe23834fc393c/static/v50.json",
+    "sha256": "2df96c03ee216b28d9fba73c1a12ccbb62055b9d3d22555732df8be5687ec036"
+  },
+  {
+    "path": "corpora/hell/LICENSE",
+    "source": "https://raw.githubusercontent.com/NooBlock/astrbot-rag-kb/6d594c771a9f7e52ac918a34f122164790f6b709/LICENSE",
+    "sha256": "793fb3ff397be076903074251a07e2bd109c6e410bb116437ff358c613bffb11"
+  },
+  {
+    "path": "corpora/hell/corpora/05_hell/README.md",
+    "source": "https://raw.githubusercontent.com/NooBlock/astrbot-rag-kb/6d594c771a9f7e52ac918a34f122164790f6b709/corpora/05_hell/README.md",
+    "sha256": "17b3d73fe4a036ab498424468a794d2011de189aeb43c77e13a0b72b5724573c"
+  },
+  {
+    "path": "corpora/hell/corpora/05_hell/chunks.jsonl",
+    "source": "https://raw.githubusercontent.com/NooBlock/astrbot-rag-kb/6d594c771a9f7e52ac918a34f122164790f6b709/corpora/05_hell/chunks.jsonl",
+    "sha256": "79f06ad27bd16a86a584b97a6e7138dd03caba55c01012b03d54697f1283208f"
+  },
+  {
+    "path": "corpora/hell/corpora/05_hell/manifest.json",
+    "source": "https://raw.githubusercontent.com/NooBlock/astrbot-rag-kb/6d594c771a9f7e52ac918a34f122164790f6b709/corpora/05_hell/manifest.json",
+    "sha256": "efced0fad9b70b280ff8b38a7027021f37053785ff774497c9bd352da600f5a2"
+  },
+  {
+    "path": "corpora/ThreeKingdomMeme/data/dialogues.json",
+    "source": "https://raw.githubusercontent.com/someone-eng/ThreeKingdomMeme/428ddd79018e26fd163a6a20cd6a107ae547b59c/data/dialogues.json",
+    "sha256": "e3941a6e056adbeaf4f453191ee2f9b562bfd6281b69802ba8654defae5f583d"
+  },
+  {
+    "path": "corpora/ThreeKingdomMeme/knowledge_base/xinsanguo_caption_templates.json",
+    "source": "https://raw.githubusercontent.com/someone-eng/ThreeKingdomMeme/428ddd79018e26fd163a6a20cd6a107ae547b59c/knowledge_base/xinsanguo_caption_templates.json",
+    "sha256": "cf97c1cd5c0822720fc18f33244fc547428c8c4dc59216c5d40717b6d236c827"
+  },
+  {
+    "path": "corpora/ThreeKingdomMeme/knowledge_base/xinsanguo_corpus.json",
+    "source": "https://raw.githubusercontent.com/someone-eng/ThreeKingdomMeme/428ddd79018e26fd163a6a20cd6a107ae547b59c/knowledge_base/xinsanguo_corpus.json",
+    "sha256": "4a6f80786e040b6acf198de646618803340aeee0d01a75f29a2a61c2d0ae03e6"
+  },
+  {
+    "path": "corpora/ThreeKingdomMeme/README.md",
+    "source": "https://raw.githubusercontent.com/someone-eng/ThreeKingdomMeme/428ddd79018e26fd163a6a20cd6a107ae547b59c/README.md",
+    "sha256": "c539383ee1e7fc9b42ef654e1d05d189801f00acb6ba7e3ddae254da3c8d1bde"
+  },
+  {
+    "path": "corpora/hachimi-automaton/README.md",
+    "source": "https://raw.githubusercontent.com/connoryyan/hachimi-automaton/c9a1484ade089bd03d96801703d639fe8e84e174/README.md",
+    "sha256": "ed7ae73d7dc5d580ffb8abe2d1b24c999b95e3309437213c9a2329810ab0abfe"
+  },
+  {
+    "path": "corpora/hachimi-automaton/data/corpus.json",
+    "source": "https://raw.githubusercontent.com/connoryyan/hachimi-automaton/c9a1484ade089bd03d96801703d639fe8e84e174/data/corpus.json",
+    "sha256": "aac1a30dadd0fed3ac36560efe9dab0d7175a4f39a7de5950df79609689ce3af"
+  },
+  {
+    "path": "corpora/hachimi-automaton/data/lyric.txt",
+    "source": "https://raw.githubusercontent.com/connoryyan/hachimi-automaton/c9a1484ade089bd03d96801703d639fe8e84e174/data/lyric.txt",
+    "sha256": "047a089ec1213ff4ca5fd705b1ee7c8f6077a0ac31ca85ac843c19e9df294547"
+  },
+  {
+    "path": "corpora/hachimi-automaton/LICENSE",
+    "source": "https://raw.githubusercontent.com/connoryyan/hachimi-automaton/c9a1484ade089bd03d96801703d639fe8e84e174/LICENSE",
+    "sha256": "6af303a25bfbab250e169f95a2fb4dd079767d41b21d7b4a8fd1013d0993a957"
+  },
+  {
+    "path": "corpora/manbo-music/README.md",
+    "source": "https://raw.githubusercontent.com/HBcao233/manbo-music/1a44b946f163f33073215fc115430b3a3cd8949c/README.md",
+    "sha256": "294f80e98a41fda7ce516a35c5d4f209d9b06a375ab47be1dfe68b0101b43383"
+  },
+  {
+    "path": "corpora/manbo-music/js/musicData.js",
+    "source": "https://raw.githubusercontent.com/HBcao233/manbo-music/1a44b946f163f33073215fc115430b3a3cd8949c/js/musicData.js",
+    "sha256": "de20c6e44a7d2fcdfb7628bcf7f56c421a5f3064446cc5327f322da03b3c1fd2"
+  },
+  {
+    "path": "corpora/manbo-music/LICENSE",
+    "source": "https://raw.githubusercontent.com/HBcao233/manbo-music/1a44b946f163f33073215fc115430b3a3cd8949c/LICENSE",
+    "sha256": "a3de776aeae0cde57657685890d490c951b3d62a8f02f35bbb084a8d060b0d25"
+  },
+  {
+    "path": "corpora/manbo-music/lyric/GoldenHour-慎啸.lrc",
+    "source": "https://raw.githubusercontent.com/HBcao233/manbo-music/1a44b946f163f33073215fc115430b3a3cd8949c/lyric/GoldenHour-慎啸.lrc",
+    "sha256": "ad60ef41f6b13ddd3cfad91cf2d90de855ee0c77e6e3ab6077b0834f4933f127"
+  },
+  {
+    "path": "corpora/manbo-music/lyric/ThatCat-天气温云.lrc",
+    "source": "https://raw.githubusercontent.com/HBcao233/manbo-music/1a44b946f163f33073215fc115430b3a3cd8949c/lyric/ThatCat-天气温云.lrc",
+    "sha256": "0908d6ea945504502e683f343b0cbdb150aab50924493dcf43fd9d286b28f91f"
+  },
+  {
+    "path": "corpora/manbo-music/lyric/哈基米逆风翻盘-冷秋猫.lrc",
+    "source": "https://raw.githubusercontent.com/HBcao233/manbo-music/1a44b946f163f33073215fc115430b3a3cd8949c/lyric/哈基米逆风翻盘-冷秋猫.lrc",
+    "sha256": "dc8c011393b3838e103e7b99a489c2e78a5f37d802bc2deca4049720c9fda590"
+  },
+  {
+    "path": "corpora/manbo-music/lyric/哈基米逆风翻盘-原味小狗堡.lrc",
+    "source": "https://raw.githubusercontent.com/HBcao233/manbo-music/1a44b946f163f33073215fc115430b3a3cd8949c/lyric/哈基米逆风翻盘-原味小狗堡.lrc",
+    "sha256": "26651c4c396570ffa38f7edd7ca27dde34adf3db4e1699314f6e768dc417fbdf"
+  },
+  {
+    "path": "corpora/ChinesePun/ChinesePun.json",
+    "source": "https://raw.githubusercontent.com/cubenlp/PGCL/875d3b0bb85afc795b85d2ad6274cf88271d71a8/ChinesePun.json",
+    "sha256": "e1061806fdc26e423eca0ba121950c2862b6113b98920f50ef5748c227866f34"
+  },
+  {
+    "path": "corpora/ChinesePun/LICENSE",
+    "source": "https://raw.githubusercontent.com/cubenlp/PGCL/875d3b0bb85afc795b85d2ad6274cf88271d71a8/LICENSE",
+    "sha256": "e34e7ed8eafd0ebdf230c12723d10e518814e9b8a2cfd13073a7fd9cd7e226e4"
+  },
+  {
+    "path": "corpora/ChinesePun/README.md",
+    "source": "https://raw.githubusercontent.com/cubenlp/PGCL/875d3b0bb85afc795b85d2ad6274cf88271d71a8/README.md",
+    "sha256": "3168febf1b1d92528ebbfddf0b7c5020fbb29db6fe22254934e7aa6fc96c1a61"
+  },
+  {
+    "path": "corpora/冷笑话/原神冷笑话.wiki",
+    "source": "https://wiki.biligame.com/ys/api.php?action=query&prop=revisions&revids=690528&rvprop=ids%7Ccontent&rvslots=main&format=json",
+    "sha256": "4c3a8c94838a5ec6cab928b21e1cdbf542ab21b35277bb9bb6a2236b235cb039",
+    "extract": "query.pages.153609.revisions[0].slots.main.* (UTF-8)"
+  }
+]
